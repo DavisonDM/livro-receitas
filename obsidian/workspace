@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "07a53c19ad971aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6cd664e992e61d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estrogonofe.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a52df30d2b1538d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cab1e3928f85cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5684d7cde491c521",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "890712cfac641e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Receita",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "15bc8e57914b4893",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7837287bd3620b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c030f9a6d24abd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estrogonofe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d6cd664e992e61d",
+  "lastOpenFiles": [
+    "Estrogonofe.md",
+    "Sem título 1.md",
+    "Sem título.md"
+  ]
+}
