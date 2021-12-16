@@ -6,3 +6,4 @@ olá, bem venido ao meu livro de receitas
 
 testando nova receita conflit config
 - [ ] 
+## texto para conflito
